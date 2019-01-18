@@ -1,0 +1,9 @@
+*.project
+*.pydevproject
+*.log
+*.pyc
+logs
+_bak/*
+
+
+
